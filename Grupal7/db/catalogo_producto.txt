@@ -1,0 +1,7 @@
+id,nombre
+1,Fideos 5
+2,Corbatitas
+3,Merluza
+4,Lapiz Pasta
+5,Refri
+6,Lavadora

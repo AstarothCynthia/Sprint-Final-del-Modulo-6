@@ -1,0 +1,35 @@
+1;Queso Mascarpone Fabiolio;pza;10;25032;Abarrotes;Lacteos
+2;Queso de cabrao;pza;10;75032;Abarrotes;Lacteos
+3;Cerveza Sasquatcho;pza;10;45032;Abarrotes;Licores
+4;Cerveza negra Steeleyeo;pza;15;85032;Abarrotes;Licores
+5;Escabeche de arenqueo;pza;20;95032;Abarrotes;Pescaderia
+6;Salmón ahumado Gravado;pza;20;115032;Abarrotes;Pescaderia
+7;Vino Côte de Blayeo;pza;15;125032;Abarrotes;Licores
+8;Té Dharamsala;pza;10;15032;Abarrotes;Cafeteria
+9;Cerveza tibetana Barley;pza;10;5032;Abarrotes;Licores
+10;Sirope de regaliz;pza;15;35000;Abarrotes;Cafeteria
+11;Especias Cajun del chef Anton;pza;25;5000;Abarrotes;Aliños
+12;Mezcla Gumbo del chef Anton;pza;15;8000;Abarrotes;Aliños
+13;Mermelada de grosellas de la abuela;pza;10;10000;Abarrotes;Dulces
+14;Peras secas orgánicas del tío Bob;pza;10;12000;Abarrotes;Conservas
+15;Salsa de arándanos Northwoods;pza;15;8000;Abarrotes;Conservas
+16;Buey Mishi Kobe;pza;15;7000;Abarrotes;Carnes
+17;Pez espada;pza;15;6000;Abarrotes;Pescaderia
+18;Queso Cabrales;pza;10;80000;Abarrotes;Lacteos
+19;Queso Manchego La Pastora;pza;25;4000;Abarrotes;Lacteos
+20;Algas Konbu;pza;15;18000;Abarrotes;Conservas
+21;Cuajada de judías;pza;10;5500;Abarrotes;Conservas
+8;Té Dharamsala;pza;10;15032;Abarrotes;Cafeteria
+9;Cerveza tibetana Barley;pza;10;5032;Abarrotes;Licores
+10;Sirope de regaliz;pza;15;35000;Abarrotes;Cafeteria
+11;Especias Cajun del chef Anton;pza;25;5000;Abarrotes;Aliños
+12;Mezcla Gumbo del chef Anton;pza;15;8000;Abarrotes;Aliños
+13;Mermelada de grosellas de la abuela;pza;10;10000;Abarrotes;Dulces
+14;Peras secas orgánicas del tío Bob;pza;10;12000;Abarrotes;Conservas
+15;Salsa de arándanos Northwoods;pza;15;8000;Abarrotes;Conservas
+16;Buey Mishi Kobe;pza;15;7000;Abarrotes;Carnes
+17;Pez espada;pza;15;6000;Abarrotes;Pescaderia
+18;Queso Cabrales;pza;10;80000;Abarrotes;Lacteos
+19;Queso Manchego La Pastora;pza;25;4000;Abarrotes;Lacteos
+20;Algas Konbu;pza;15;18000;Abarrotes;Conservas
+21;Cuajada de judías;pza;10;5500;Abarrotes;Conservas

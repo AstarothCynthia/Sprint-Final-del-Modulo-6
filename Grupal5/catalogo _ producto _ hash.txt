@@ -1,0 +1,7 @@
+1;Queso Mascarpone Fabiolio;pza;25032;Abarrotes
+2;Queso de cabrao;pza;75032;Abarrotes
+3;Cerveza Sasquatcho;pza;45032;Abarrotes
+4;Cerveza negra Steeleyeo;pza;85032;Abarrotes
+5;Escabeche de arenqueo;pza;95032;Abarrotes
+6;Salmón ahumado Gravado;pza;115032;Abarrotes
+7;Vino Côte de Blayeo;pza;125032;Abarrotes

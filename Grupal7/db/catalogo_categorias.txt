@@ -1,0 +1,7 @@
+id,nombre
+1,Abarrotes
+2,Libreria
+3,Ferreteria
+4,Carniceria
+5,Linea blanca
+6,Pescaderia

@@ -1,0 +1,6 @@
+clave,nombre,unidad,precio,marca,categoria
+653BS,Refri,pza,100000,6,5
+113BS,Fideos 5,paq,890,2,1
+343BS,Merluza,pza,5490,3,6
+213BS,Corbatitas,paq,890,2,1
+653BS,Lavadora,pza,150000,6,5

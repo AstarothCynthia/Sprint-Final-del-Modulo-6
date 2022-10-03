@@ -1,0 +1,9 @@
+65161;Lapiz;Proarte;200;200;Escolares
+655;Goma;Faber Castell;50;50;Escolares
+5554;Lapices de colores;Artel;10;1000;Escolares
+65656;Resma;Fix;20;6000;Escolares
+52515;Cuaderno;Torre;20;990;Escolares
+1111;tttt;uuuu;120;5000;vvvv
+2222;rrrr;gggg;15;25;vvvv
+21313;www;rrr;15;10;ttt
+4546;fff;ggg;45;5000;vvv
